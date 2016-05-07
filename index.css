@@ -1,0 +1,41 @@
+.color1 {
+  background-color: #2a476c;
+  padding-top: 100px;
+  padding-bottom: 1px;
+}
+
+.color2 {
+  background-color: #2a476c;
+  padding-top: 10px;
+  padding-bottom: 100px;
+}
+
+.color3 {
+  background-color: #51832d;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.mypicture {
+  width: 300px;
+  height: 300px;
+}
+
+.fonticon {
+  text-align: center;
+  padding-top: 25px;
+}
+
+.resume {
+  padding-left: 15px;
+  color: black;
+}
+
+.center-heading {
+  text-align: center;
+  color: white;
+}
+
+.hypercolor {
+  color: white;
+}
